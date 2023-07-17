@@ -273,7 +273,7 @@ fi
 
 cd /opt
 
-download "https://cf-proxy-dl.8mi.work/https://github.com/FPDADA/cdnflydadao/tree/main/agent/$tar_gz_name" "https://cf-proxy-dl.8mi.work/https://github.com/FPDADA/cdnflydadao/tree/main/agent/$tar_gz_name" "$tar_gz_name"
+download "https://cloudflare.rpdl.8mi.work/https://github.com/FPDADA/cdnflydadao/tree/main/agent/$tar_gz_name" "https://cloudflare.rpdl.8mi.work/https://github.com/FPDADA/cdnflydadao/tree/main/agent/$tar_gz_name" "$tar_gz_name"
 
 rm -rf $dir_name
 tar xf $tar_gz_name
